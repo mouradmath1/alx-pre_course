@@ -1,1 +1,3 @@
 echo toto\ntata\ntiti
+#!/bin/bash
+echo "ALX"
